@@ -1,5 +1,4 @@
 h1 {
-<<<<<<< HEAD
   color: blue;
   text-align: center;
 }
@@ -13,7 +12,6 @@ p {
 }
 body {
   background-color: skyblue;
-=======
   color: darkred;
 }
 h2 {
@@ -27,5 +25,4 @@ body {
   background-color: salmon;
   font-family: sans-serif;
   text-align: center;
->>>>>>> red-theme
 }
